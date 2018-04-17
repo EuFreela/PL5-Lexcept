@@ -39,3 +39,5 @@ return parent::render($request, $exception);
 </pre>
 <hr>
 <p>Teste: <b>127.0.0.1:8000/hello</b></p>
+<br>
+<img src="https://s14.postimg.cc/myaz4tjxt/lexcept.png" height="400"  width="800">
