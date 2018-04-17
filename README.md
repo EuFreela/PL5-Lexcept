@@ -37,3 +37,5 @@ if($this->isHttpException($exception)){
 }
 return parent::render($request, $exception);
 </pre>
+<hr>
+<p>Teste: <b>127.0.0.1:8000/hello</b></p>
