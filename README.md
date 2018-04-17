@@ -15,8 +15,10 @@ composer require lameck/lexcept
 
 ### Configuração
 <p>Adicione o Provider:</p>
-<pre>Lameck\Lexcept\LexceptServiceProvider::class</pre>
-
+<pre>
+Lameck\Lexcept\LexceptServiceProvider::class
+</pre>
+<pre>composer dumpautoload</pre>
 <p>App/Exceptions/Handler.php</p>
 <p>Adicione as linhas do packager em function render</p>
 <pre>
