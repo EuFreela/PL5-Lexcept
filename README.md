@@ -37,4 +37,3 @@ if($this->isHttpException($exception)){
 }
 return parent::render($request, $exception);
 </pre>
-<pre>composer dump-autoload</pre>
