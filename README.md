@@ -1,7 +1,5 @@
 # PL5-Lexcept
 
-# PL5-Lexcept
-
 ### Exception Pages Resource Laravel 5.^
 #### composer-plugin
 
