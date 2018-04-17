@@ -6,7 +6,7 @@
 <p>Packager para resource de páginas de erros.</p>
 <p><b>401</b><br><b>404</b><br><b>500</b></p>
 
-<a href="https://packagist.org/packages/lameck/lexcept">Assinatura packgerlist</a>
+<a href="https://packagist.org/packages/lameck/lexcept" target="_blank">Assinatura packgerlist</a>
 
 ### Instalação
 <pre>
